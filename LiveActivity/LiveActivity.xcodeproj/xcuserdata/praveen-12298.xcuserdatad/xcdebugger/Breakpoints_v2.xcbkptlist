@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1E2C95C3-6765-431F-A648-D83F8B333667"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveActivity/LiveActivityUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getCurrentStateData(forRecordID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90 - de35412382feeb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.getCurrentStateData(forRecordID: Swift.String) -&gt; Swift.Optional&lt;LiveActivity.ActivityData.State&gt;"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90 - 7dc1604937a4af00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WidgetsExtension.LiveActivityUtil.getCurrentStateData(forRecordID: Swift.String) -&gt; Swift.Optional&lt;WidgetsExtension.ActivityData.State&gt;"
+                  moduleName = "WidgetsExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90 - de35412382feeb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.getCurrentStateData(forRecordID: Swift.String) -&gt; Swift.Optional&lt;LiveActivity.ActivityData.State&gt;"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90 - 7dc1604937a4af00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WidgetsExtension.LiveActivityUtil.getCurrentStateData(forRecordID: Swift.String) -&gt; Swift.Optional&lt;WidgetsExtension.ActivityData.State&gt;"
+                  moduleName = "WidgetsExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "7B95D4AF-010F-44C7-8636-B995208D2C90 - de35412382fef49f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.getCurrentStateData(forRecordID: Swift.String) -&gt; Swift.Optional&lt;LiveActivity.ActivityData.State&gt;"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F48F6273-7973-463A-9D79-AB2718444212"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveActivity/LiveActivityUtil.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "showLoadingView(recordID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - d5280b8135248ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WidgetsExtension.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "WidgetsExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - d5280b8135248ea7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WidgetsExtension.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "WidgetsExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "F48F6273-7973-463A-9D79-AB2718444212 - 69967b341883c21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LiveActivity.LiveActivityUtil.showLoadingView(recordID: Swift.String) -&gt; ()"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/LiveActivity/LiveActivityUtil.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD451F13-2867-419C-B852-14F1788F7AF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Widgets/CompleteTaskAppIntent.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "perform()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD451F13-2867-419C-B852-14F1788F7AF9 - 7533abaa4c246fbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WidgetsExtension.CompleteTaskAppIntent.perform() async throws -&gt; some"
+                  moduleName = "WidgetsExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/Widgets/CompleteTaskAppIntent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "AD451F13-2867-419C-B852-14F1788F7AF9 - 93415a8cfb3fad8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for LiveActivity.CompleteTaskAppIntent.perform() async throws -&gt; some"
+                  moduleName = "LiveActivity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveen-12298/Desktop/100DOS/LiveActivity/LiveActivity/Widgets/CompleteTaskAppIntent.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
